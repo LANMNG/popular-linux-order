@@ -1,0 +1,1 @@
+python main/dist_train_sat.py --config 'experiments/sat/train/sat_res50_davis17.yaml'
